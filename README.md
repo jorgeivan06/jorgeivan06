@@ -4,7 +4,7 @@ Bienvenido al proyecto Ansesstral, una plataforma dedicada a compartir artesaní
 
 ## Vista previa 🖼️
 
-![Captura del sitio Ansesstral](public/captura.jpg)
+![Captura del sitio Ansesstral](public/Captura.jpg)
 
 
 
