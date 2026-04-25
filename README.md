@@ -12,7 +12,7 @@
 
 ```javascript
 const JORGE = {
-  role: "Full Stack Developer",
+  role: "Developer web",
   focus: ["UX/UI Design", "Clean Architecture", "Performance"],
   cultural_project: "Ansesstral 🌿",
   passion: "Blending modern tech with ancestral heritage"
