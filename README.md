@@ -1,4 +1,4 @@
-# <p align="center">🚀 JORGE IVAN | SENIOR WEB ARCHITECT 🚀</p>
+# <p align="center">🚀 JORGE IVAN | DEVELOPER WEB 🚀</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00ff00&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=55&descFontSize=20" width="100%" />
