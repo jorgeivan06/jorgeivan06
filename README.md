@@ -1,8 +1,6 @@
 # <p align="center">🚀 JORGE IVAN | DEVELOPER WEB 🚀</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Jorge%20Ivan&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20UX/UI%20Specialist&descSize=20" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jorgeivan06/jorgeivan06/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
