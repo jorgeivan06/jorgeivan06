@@ -1,7 +1,7 @@
 # <p align="center">🚀 JORGE IVAN | DEVELOPER WEB 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ff00&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=55&descFontSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Jorge%20Ivan&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20UX/UI%20Specialist&descSize=20" width="100%" />
 </p>
 
 <p align="center">
