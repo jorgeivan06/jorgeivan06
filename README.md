@@ -12,8 +12,7 @@
 const JORGE = {
   role: "Developer web",
   focus: ["UX/UI Design", "Clean Architecture", "Performance"],
-  cultural_project: "Ansesstral 🌿",
-  passion: "Blending modern tech with ancestral heritage"
+  passion: "tecnologia, desarrollo web"
 };
 ```
 
