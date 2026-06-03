@@ -55,10 +55,10 @@ const JORGE = {
 
 ## 🚀 Operaciones Recientes (Proyectos)
 
-- 🌿 **[Ansesstral](https://github.com/jorgeivan06/Ansesstral):** Preservación de la cultura Zenú a través del E-commerce cultural.
+- 🌿 **[Market](https://github.com/jorgeivan06/Market):** Preservación de la cultura Zenú a través del E-commerce cultural.
 - ☄️ **[DBZ Scouter Dashboard](https://github.com/jorgeivan06/dashboard-DBZ):** Experimento de UI inmersiva con datos de Ki en tiempo real.
 - 📂 **[Portfolio Global](https://github.com/jorgeivan06/portafolio-dev-pro):** Showcase unificado de soluciones web.
-
+  
 ---
 
 ## 📊 Métricas de Rendimiento
